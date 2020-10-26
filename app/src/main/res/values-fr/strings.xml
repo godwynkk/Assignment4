@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Lab6</string>
+
+    <string-array name="array1">
+        <item
+            >WHITE</item>
+        <item
+            >BLUE</item>
+        <item
+            >GREEN</item>
+        <item
+            >YELLOW</item>
+        <item
+            >RED</item>
+        <item
+            >BLACK</item>
+        <item
+            >CYAN</item>
+        <item
+            >GRAY</item>
+        <item
+            >MAGENTA</item>
+        <item
+            >DARKGRAY</item>
+    </string-array>
+    <string-array name="array2">
+        <item
+            >BLANC</item>
+        <item
+            >BLEU</item>
+        <item
+            >VERT</item>
+        <item
+            >JAUNE</item>
+        <item
+            >ROUGE</item>
+        <item
+            >NOIR</item>
+        <item
+            >CIAN</item>
+        <item
+            >GRIS</item>
+        <item
+            >MAGENTA</item>
+        <item
+            >GRIS FONCÉ</item>
+    </string-array>
+    <string name="textview">" Cliquez sur une couleur pour modifier l'arrière-plan"</string>
+
+
+</resources>
